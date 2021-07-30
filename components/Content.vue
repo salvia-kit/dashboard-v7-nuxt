@@ -144,7 +144,7 @@
                         <a href="#" class="block relative">
                           <img
                             alt="profil"
-                            src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/8_yfarwk.jpg"
+                            src="/images/2.jpg"
                             class="mx-auto object-cover rounded-full h-10 w-10"
                           />
                         </a>
@@ -210,7 +210,7 @@
                         <a href="#" class="block relative">
                           <img
                             alt="profil"
-                            src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/4_iauuag.jpg"
+                            src="/images/3.jpg"
                             class="mx-auto object-cover rounded-full h-10 w-10"
                           />
                         </a>
@@ -276,7 +276,7 @@
                         <a href="#" class="block relative">
                           <img
                             alt="profil"
-                            src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/3_iscinv.jpg"
+                            src="/images/4.jpg"
                             class="mx-auto object-cover rounded-full h-10 w-10"
                           />
                         </a>
@@ -342,7 +342,7 @@
                         <a href="#" class="block relative">
                           <img
                             alt="profil"
-                            src="https://res.cloudinary.com/beloved/image/upload/v1623196231/Assets/person/6_v4ytve.jpg"
+                            src="/images/5.jpg"
                             class="mx-auto object-cover rounded-full h-10 w-10"
                           />
                         </a>
@@ -717,5 +717,5 @@ export default {
       default: '',
     },
   },
-};
+}
 </script>

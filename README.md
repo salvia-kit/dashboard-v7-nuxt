@@ -1,6 +1,6 @@
 # Salvia-kit Dashboard v7 Nuxt.js
 
-![Salvia-kit Dashboard v7](https://res.cloudinary.com/beloved/image/upload/v1626789448/dashboards/dashv7_stzudh.jpg)
+![Salvia-kit Dashboard v7](https://www.salvia-kit.com/images/dashboards/dashv7.jpg)
 
 ## 📋 Documentation
 You can see the documentation on [http://localhost:3000/admin/documentation](http://localhost:3000/admin/documentation)
